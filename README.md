@@ -1,6 +1,6 @@
 # B+ Tree Implementation in C#
 
-## Usage
+## Purpose
 
 Thie is a simple B+ tree class that uses lists for keys and values.  The main class is Node.  This is a console-mode application. 
 
