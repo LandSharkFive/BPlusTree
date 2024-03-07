@@ -1,14 +1,18 @@
-<h1>B+ Tree Implementation in C#</h2>
+# B+ Tree Implementation in C#
 
-<h3>Classes</h3>
+## Usage
 
-The main classes are BPlusTree, Node, InternalNode and LeafNode.  The B+ stores the keys and values in a dictionary.
+Thie is a simple B+ tree class that uses lists for keys and values.  The main class is Node.  This is a console-mode application. 
 
-<h3>Unit Testing</h3>
+## Install
 
-Unit Testing which uses MS Test and Visual Studio 2022 is included.
+Use Visual Studio 2022 to compile the projects. 
 
-<h3>References</h3>
+## Unit Testing
+
+Unit Testing is provided.
+
+## References
 
 1. Introduction to Algorithms, Third Edition, Thomas M. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein, MIT Press, 2009.
 
